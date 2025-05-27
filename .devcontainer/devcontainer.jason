@@ -11,9 +11,6 @@
       ]
     }
   },
-  "features": {
-    "ghcr.io/devcontainers/features/git:1": {}
-  },
   "mounts": [
     "source=flutter-pub-cache,target=/workspaces/.pub-cache,type=volume"
   ],
